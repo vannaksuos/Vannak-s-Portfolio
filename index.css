@@ -1,7 +1,7 @@
 body {
     background-color: black;
-    color: white;
-    
+    color: black;
+
 }
 
 h1 {
@@ -12,9 +12,19 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
-.profilePic {
+#profilePic {
     float: right;
-    position: static;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+.responsive {
+    width: auto;
+    height: auto;
 }
 
 .info {
@@ -25,7 +35,9 @@ h1 {
 
 .card {
     position: relative;
+    margin-left: 100px;
 }
+
 a {
     color: inherit !important;
     text-decoration: none !important;
@@ -33,4 +45,46 @@ a {
     font-family: inherit !important;
     font-weight: inherit !important;
     line-height: inherit !important;
+}
+
+
+@media screen and (max-width: 662px) {
+
+    body {
+        background-color: black;
+
+    }
+
+
+    h1 {
+        text-align: center;
+    }
+
+    div {
+        text-align: center;
+    }
+
+    a {
+        margin-right: 20px;
+        padding-left: 20px;
+    }
+
+    #profilePic {
+        margin-right: 20px;
+        padding-left: 20px;
+    }
+
+    .card {
+
+        float: left;
+        margin-right: 60px;
+        padding-left: 20px;
+
+    }
+
+    #about {
+        margin-right: 30px;
+        padding-left: 20px;
+
+    }
 }

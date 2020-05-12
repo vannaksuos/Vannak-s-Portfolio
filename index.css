@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: white;
+    
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding-left: 100px;
+    padding-top: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.profilePic {
+    float: right;
+    position: static;
+}
+
+.info {
+    padding-top: 300px;
+    padding-left: 100px;
+    font-size: 20px;
+}
+
+.card {
+    position: relative;
+}
+a {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+}

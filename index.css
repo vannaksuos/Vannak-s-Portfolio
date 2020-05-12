@@ -30,29 +30,25 @@ div {
 }
 
 .card {
-    /* position: relative; */
     margin-left: 20px;
-    /* float: left; */
+
 }
 
 #smallCards {
     float: left;
-    /* margin-left: 100px; */
+
 }
 
 #skills {
     float: right;
     margin-right: 100px;
-    /* margin-top: 20px; */
 
 }
 
 #workExperiences {
     float: right;
     margin-right: 100px;
-    /* margin-top: 20px;
-    margin-bottom: 40px; */
-
+    text-align: left;
 }
 
 #hobbies {

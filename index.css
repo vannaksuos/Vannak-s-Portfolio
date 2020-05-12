@@ -29,30 +29,34 @@ div {
     height: auto;
 }
 
-.info {
-    padding-top: 300px;
-    padding-left: 100px;
-    font-size: 20px;
+.card {
+    /* position: relative; */
+    margin-left: 20px;
+    /* float: left; */
 }
 
-.card {
-    position: relative;
-    margin-left: 100px;
+#smallCards {
+    float: left;
+    /* margin-left: 100px; */
 }
 
 #skills {
     float: right;
     margin-right: 100px;
+    /* margin-top: 20px; */
 
 }
 
 #workExperiences {
     float: right;
     margin-right: 100px;
+    /* margin-top: 20px;
+    margin-bottom: 40px; */
 
-    
+}
 
-    
+#hobbies {
+    float: left;
 }
 
 a {

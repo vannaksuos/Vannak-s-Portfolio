@@ -24,9 +24,8 @@ div {
     text-align: center;
 }
 
-.responsive {
-    width: auto;
-    height: auto;
+#about {
+    text-align: center;
 }
 
 .card {
@@ -45,6 +44,15 @@ div {
 
 }
 
+#strength {
+    margin-left: 40px;
+}
+
+#personal  {
+    margin-left: 40px;
+}
+
+
 #workExperiences {
     float: right;
     margin-right: 100px;
@@ -53,6 +61,7 @@ div {
 
 #hobbies {
     float: left;
+    margin-left:40px;
 }
 
 a {

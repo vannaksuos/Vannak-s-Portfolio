@@ -203,3 +203,50 @@ a {
         float: left;
     }
 }
+
+@media screen and (max-width: 200px) {
+
+    body {
+        background-color: black;
+        align-items: center;
+
+    }
+
+
+    h1 {
+        text-align: center;
+    }
+
+    div {
+        text-align: center;
+    }
+
+    a {
+        margin-right: 1px;
+        padding-left: 1px;
+    }
+
+    #profilePic {
+        margin-right: 1px;
+        padding-left: 1px;
+    }
+
+    .card {
+
+        float: left;
+        margin-right: 1px;
+        padding-left: 1px;
+
+    }
+
+    #about {
+        margin-right: 1px;
+        padding-left: 1px;
+
+    }
+    .smallCards {
+        margin-right: 1px;
+        padding-left: 1px;
+        float: left;
+    }
+}

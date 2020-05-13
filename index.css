@@ -14,7 +14,7 @@ h1 {
 
 #profilePic {
     float: right;
-    margin-right: 100px;
+    margin-right: 50px;
     margin-top: 20px;
     width:600px;
     height: 450px;
@@ -40,7 +40,7 @@ div {
 
 #skills {
     float: right;
-    margin-right: 100px;
+    margin-right: 50px;
 
 }
 
@@ -55,7 +55,7 @@ div {
 
 #workExperiences {
     float: right;
-    margin-right: 100px;
+    margin-right: 50px;
     text-align: left;
 }
 

@@ -16,7 +16,7 @@ h1 {
     float: right;
     margin-right: 50px;
     margin-top: 20px;
-    width:647px;
+    width: 647px;
     height: 450px;
 }
 
@@ -48,7 +48,7 @@ div {
     margin-left: 40px;
 }
 
-#personal  {
+#personal {
     margin-left: 40px;
 }
 
@@ -61,7 +61,7 @@ div {
 
 #hobbies {
     float: left;
-    margin-left:40px;
+    margin-left: 40px;
 }
 
 a {
@@ -74,46 +74,6 @@ a {
 }
 
 
-@media screen and (max-width: 662px) {
-
-    body {
-        background-color: black;
-
-    }
-
-
-    h1 {
-        text-align: center;
-    }
-
-    div {
-        text-align: center;
-    }
-
-    a {
-        margin-right: 20px;
-        padding-left: 20px;
-    }
-
-    #profilePic {
-        margin-right: 20px;
-        padding-left: 20px;
-    }
-
-    .card {
-
-        float: left;
-        margin-right: 60px;
-        padding-left: 20px;
-
-    }
-
-    #about {
-        margin-right: 30px;
-        padding-left: 20px;
-
-    }
-}
 
 @media screen and (max-width: 1280px) {
 
@@ -156,7 +116,7 @@ a {
     }
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 662px) {
 
     body {
         background-color: black;
@@ -173,26 +133,73 @@ a {
     }
 
     a {
-        margin-right: 20px;
-        padding-left: 20px;
+        margin-right: 5px;
+        padding-left: 5px;
     }
 
     #profilePic {
-        margin-right: 20px;
-        padding-left: 20px;
+        margin-right: 5px;
+        padding-left: 5px;
     }
 
     .card {
 
         float: left;
-        margin-right: 60px;
-        padding-left: 20px;
+        margin-right: 20px;
+        padding-left: 5px;
 
     }
 
     #about {
         margin-right: 30px;
-        padding-left: 20px;
+        padding-left: 5px;
 
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    body {
+        background-color: black;
+        align-items: center;
+
+    }
+
+
+    h1 {
+        text-align: center;
+    }
+
+    div {
+        text-align: center;
+    }
+
+    a {
+        margin-right: 5px;
+        padding-left: 2px;
+    }
+
+    #profilePic {
+        margin-right: 5px;
+        padding-left: 2px;
+    }
+
+    .card {
+
+        float: left;
+        margin-right: 5px;
+        padding-left: 2px;
+
+    }
+
+    #about {
+        margin-right: 5px;
+        padding-left: 2px;
+
+    }
+    .smallCards {
+        margin-right: 5px;
+        padding-left: 2px;
+        float: left;
     }
 }

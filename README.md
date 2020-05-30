@@ -7,6 +7,8 @@
 
 # Deploy Github link
 https://vannaksuos.github.io/Vannak-s-Portfolio/ 
+<br>
+https://github.com/AJFree458/Project-2
 
 # Deploy Heroku link
 
@@ -20,7 +22,7 @@ https://vannaksuos.github.io/Vannak-s-Portfolio/
 This is my Portfilio for Employers to view
 
 # Table of contents
-<br/>1. Personal Info<br/>2. Strenght<br/>3. Hobbies<br/>4. Projects Ive Learned<br/>5. Profile picture<br/>6. Skills<br/>7. Work Experiences<br/>
+<br/>1. Personal Info<br/>2. Strength<br/>3. Hobbies<br/>4. Projects Ive Learned<br/>5. Profile picture<br/>6. Skills<br/>7. Work Experiences<br/>
 
 # Installation
 

@@ -30,11 +30,15 @@ div {
 
 .card {
     margin-left: 20px;
+    margin-top: 40px;
+
 
 }
 
 #smallCards {
     float: left;
+    margin-top: 40px;
+    margin-right: 40px;
 
 }
 
@@ -62,6 +66,17 @@ div {
 #hobbies {
     float: left;
     margin-left: 40px;
+    margin-top: 40px;
+}
+
+#project1 {
+    float: left;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#project2 {
+    float: left;
 }
 
 a {
